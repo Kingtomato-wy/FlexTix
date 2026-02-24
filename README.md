@@ -10,7 +10,6 @@ A decentralized event ticketing platform built on Ethereum that uses NFTs as tic
 - **Event Management**: Create and manage events with full control
 - **Wallet Integration**: Connect with MetaMask and other Web3 wallets
 - **Real-time Updates**: Live ticket availability and sales tracking
-- **Mobile Responsive**: Works seamlessly on all devices
 
 ## 🛠 Tech Stack
 
